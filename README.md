@@ -4,6 +4,8 @@ Project Description:
 
 This Python project is a Personal Assistant Application that helps users manage tasks, track expenses, and get real-time weather updates. It also provides inspirational quotes for motivation. The application is interactive and console-based, designed to simplify everyday tasks.
 
+<hr/>
+
 Features:
 
 1. User Management:
@@ -29,6 +31,8 @@ Features:
 
 * Displays a random motivational quote fetched from a website.
 
+<hr/>
+
 How to Use:
 
 1. Run the Application:
@@ -40,8 +44,10 @@ Choose the desired option to log in to your account or create a new one.
 3. Navigate Options:
 After logging in, access various features like Task Management, Expense Tracker, or Weather Updates through the main menu.
 
-4 Exit:
+4. Exit:
 Log out of your account and exit the application when done.
+
+<hr/>
 
 Prerequisites:
 
@@ -53,16 +59,21 @@ Prerequisites:
 
 Install the required libraries using: pip install requests beautifulsoup4.
 
+<hr/>
+
 API Used:
 
-1. Weather API:
-* Used for fetching real-time weather information.
-* Base URL: http://api.weatherapi.com/v1/current.json
-* Replace API_KEY in the code with your personal API key.
+1. Weather API: Used for fetching real-time weather information.
+  * Base URL: http://api.weatherapi.com/v1/current.json
+  * Replace API_KEY in the code with your personal API key.
 
 2. Quote Fetching:
 Scrapes motivational quotes from this page.
 
+<hr/>
+
 Documentation:
 
 For detailed information, refer to the documentation.
+
+https://drive.google.com/file/d/1F8MxbhGuaB2ahk09-9yKdROrrR2J4NUQ/view?usp=sharing
